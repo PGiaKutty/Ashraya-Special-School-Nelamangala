@@ -1,0 +1,17 @@
+   header{
+		position: fixed;
+		width:100%;
+		top:0px;
+		left:0px;
+		background-color:#006400;
+		z-index: 90;
+	}
+	#logo{border-radius:50%;
+	margin-left:7%;}
+	p{
+		font-size:150%;
+		}
+ #foot{
+	 background-color:#006400;
+       width:100%;
+	   }
